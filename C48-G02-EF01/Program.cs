@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-
+            ReadMoreBooksDbContext _context = new ReadMoreBooksDbContext();
         }
     }
 }
